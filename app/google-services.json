@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186006471767",
+    "project_id": "pappseando-a879c",
+    "storage_bucket": "pappseando-a879c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186006471767:android:e17aa056ed3d388ead0f12",
+        "android_client_info": {
+          "package_name": "com.ciclo4_moviles_g4_2.photo_storage_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186006471767-6adr83mup2s1st6k8mk39ki3gili7515.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKHGx1DDdZaQ5kTm2-myYtRxEtHHmZBs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186006471767-6adr83mup2s1st6k8mk39ki3gili7515.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
